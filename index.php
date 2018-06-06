@@ -1,7 +1,9 @@
 <?php
 
 
-echo "Hello  Word, <strong> Minha pagina de teste </strong>";
+echo "Hello  Word, <strong> Minha pagina de teste HAHAHAHA </strong>";
+
+echo "Adicionado alteração"
 
 
 ?>
